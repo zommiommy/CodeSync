@@ -37,5 +37,6 @@ and
 #@ }
 ```
 
-
+## To install
+Just create a new folder named CodeSync in the sublime package folder and copy all the files there.
 
