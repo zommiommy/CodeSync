@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Start stream the code",
+        "command": "sync_code_stream"
+    },
+    {
+        "caption": "Start Reciving the stream",
+        "command": "sync_code_recive"
+    }
+]

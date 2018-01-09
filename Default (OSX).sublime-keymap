@@ -1,0 +1,12 @@
+[
+    {
+        "keys": [
+            "super+alt+shift+1"
+        ], 
+        "command": "sync_code_stream"
+    },
+    {
+        "keys": ["super+alt+shift+2"],
+        "command": "sync_code_recive"
+    }
+]
